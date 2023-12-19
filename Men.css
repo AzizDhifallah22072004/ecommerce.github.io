@@ -77,7 +77,7 @@ a{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     row-gap: 30px;
-    margin-top: 30px;
+    margin-top: 120px;
     margin-bottom: 30px;
     justify-items: center;
 }
@@ -190,7 +190,7 @@ footer i:hover{
     justify-items: center;
     column-gap: 10px;
     row-gap: 10px;
-    margin-top: 100px;
+    margin-top: 120px;
     margin-bottom: 30px;
     position: relative;
     z-index: 1;
